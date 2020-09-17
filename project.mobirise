@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "globAR Online",
-    "currentPage": "matematica.html",
+    "currentPage": "barcelona.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -6134,7 +6134,7 @@
     },
     "barcelona.html": {
       "settings": {
-        "meta_descr": "Actividades para descubrir y disfrutar en Barcelona",
+        "meta_descr": "Actividades para descubrir, aprender y disfrutar en Barcelona",
         "title": "Barcelona",
         "order": 8
       },
